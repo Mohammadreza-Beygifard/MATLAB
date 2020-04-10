@@ -9,3 +9,6 @@ of the linearized system around each equlibrium point.
 
 [lab_1_ex_2.m] uses the simulink model [lab1_sim.slx] for generating the signals
 and the trajectory of the states of the system.
+
+[Controllers] in this folder you can find four different control approach for 
+controlling such a nonlinear system.
