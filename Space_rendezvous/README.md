@@ -9,3 +9,5 @@ To solve such a problem we can use Hill-Clohessy-Wiltshire equations for modelin
 and use non-linear MPC to control the chaser.
 
 In this example which is a lab activity we have modeled the plant and performed the simulation.
+
+By running main_HCW.m you can see the results.
