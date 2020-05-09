@@ -10,3 +10,6 @@ Adaptive Cruise Control is a complicated control system consists of usually more
 
 In this simplified model we are implementing three controllers, as velocity control, spacing control and a control logic to choose
 between them.
+
+Signals with the index h belongs to our vehicle, host vehicle.
+Signals with the index l belongs to the leading vehicle.
