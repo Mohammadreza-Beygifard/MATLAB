@@ -49,5 +49,5 @@ figure()
 impulseplot(H2)
 
 %% Simulation
-open('HW2_sim')
-open('HW2_sim_CACC')
+open('ACC_sim')
+open('CACC_sim')
